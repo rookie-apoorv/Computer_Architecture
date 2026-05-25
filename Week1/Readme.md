@@ -7,7 +7,7 @@ If some of these ideas feel unfamiliar or difficult, that is completely okay. Ta
 ## Topics Covered
 
 ### Lecture 1
-An introduction to the basic ideas behind computer architecture and the course direction.
+An introduction to the history of computing, this is a bit theoretical. You can explore different youtube videos which cover the timeline in a much more visual form. This should encourage you to think about how far we have come, starting from room sized computers to hand held beasts.
 
 ### Lecture 2
 The stored-program model, the fetch-decode-execute cycle, and the motivation for pipelining.
