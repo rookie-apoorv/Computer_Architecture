@@ -69,7 +69,7 @@ The graph has a branching, tree-like structure converging at the output node. No
 
 **Why the DFG matters:** The edges define which operations *must* be sequential (a path connects them) and which operations *can* be parallel (no path connects them). t1 and t5, for instance, share no dependency — they can execute simultaneously in separate hardware units. This parallelism is exactly what we want to exploit.
 
-See the reference image 1 for an idea of what DFG is expected.
+Look up how a DFG actually looks like! Is it conventionally drawn vertically or horizontally?
 ---
 
 
